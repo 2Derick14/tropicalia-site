@@ -43,4 +43,4 @@ document.addEventListener('DOMContentLoaded', function(){
  ScrollReveal().reveal('#galeria', { delay: 500 });
  ScrollReveal().reveal('#contato', { delay: 500 });
 
- Erick
+//  Erick
